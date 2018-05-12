@@ -1,0 +1,31 @@
+_repo: -ber-die-Picard-schen-Gruppen-aus-dem-Zahlk-rper-der-dritten-und-der-vierten-Einheitswurzel_34032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bohler, Otto
+    gutenberg_agent_id: '36692'
+    url: http://www.gutenberg.org/2009/agents/36692
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2010-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34032'
+  lccn: 09020694
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Geometry, Non-Euclidean'
+- !lcsh 'Picard groups'
+- !lcsh 'Algebraic fields'
+title: Über die Picard'schen Gruppen aus dem Zahlkörper der dritten und der vierten
+  Einheitswurzel
+url: http://www.gutenberg.org/ebooks/34032
